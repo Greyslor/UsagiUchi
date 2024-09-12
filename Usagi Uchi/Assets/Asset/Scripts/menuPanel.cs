@@ -5,26 +5,25 @@ using UnityEngine.EventSystems;
 
 public class menuPanel : MonoBehaviour, IPointerDownHandler
 {
-    public GameObject panel; // Asigna el Panel en el inspector
-    private bool isMenuVisible = false; // Para controlar la visibilidad del menú
+    public GameObject panel;
+    private bool isMenuVisible = false;
 
     void Start()
     {
-        panel.SetActive(false); // Ocultar el menú al inicio
+        panel.SetActive(false); 
     }
 
     public void ToggleMenu()
     {
         isMenuVisible = !isMenuVisible;
-        panel.SetActive(isMenuVisible); // Alternar la visibilidad del menú
+        panel.SetActive(isMenuVisible); 
     }
 
     public void OnPointerDown(PointerEventData eventData)
     {
-        // Verifica si el clic no está dentro del panel
         if (!RectTransformUtility.RectangleContainsScreenPoint(panel.GetComponent<RectTransform>(), Input.mousePosition))
         {
-            ToggleMenu(); // Ocultar el menú si se hace clic fuera del panel
+            ToggleMenu();
         }
     }
 }
