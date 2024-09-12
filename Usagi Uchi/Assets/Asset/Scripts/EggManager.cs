@@ -1,26 +1,19 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using TMPro;
+using UnityEngine.UI;
 
 public class EggManager : MonoBehaviour
 {
-    public int eggs = 100;
-    public TextMeshProUGUI eggsTexto;
-     
-    void Start()
+    public int totalHuevos = 0; // Contador de huevos
+    public Text contadorHuevosText; // Asigna el texto del contador en el Canvas
+
+    public void AgregarHuevo()
     {
-        ActualizarEggs();
+        totalHuevos++;
+        ActualizarContador(); // Actualizar el contador en la UI
     }
 
-    public void ActualizarEggs()
+    void ActualizarContador()
     {
-        eggsTexto.text = "" + eggs;
-    }
-
-    public void GanarEggs(int cantidad)
-    {
-        eggs += cantidad;
-        ActualizarEggs();
+        contadorHuevosText.text = "" + totalHuevos; // Actualiza el texto
     }
 }

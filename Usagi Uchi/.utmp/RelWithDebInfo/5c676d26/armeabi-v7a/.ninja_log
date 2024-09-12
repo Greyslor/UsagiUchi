@@ -1,0 +1,11 @@
+# ninja log v5
+15	1692	7478799019608729	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	d788fe73e94d3aca
+10	1730	7478799019513392	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	4620b3d275f0a09e
+23	2927	7478799028822358	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	cc43ff4dabffe113
+1731	3401	7478799036453905	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	9af67ac5376d881d
+1725	4083	7478799043380111	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	a4bda0712585aa58
+4084	4573	7478799048495936	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	d86bb49d734dc9ed
+2927	4695	7478799049700223	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a33456c4e0e140d7
+3401	5027	7478799053169720	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7214046c87cbb846
+4573	5376	7478799055778564	C:/Users/verde15/Desktop/UsagiUchi/Usagi Uchi/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5c676d26/obj/armeabi-v7a/libswappywrapper.so	dc4ab829c11c8ce1
+5027	5385	7478799055803629	C:/Users/verde15/Desktop/UsagiUchi/Usagi Uchi/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5c676d26/obj/armeabi-v7a/libgame.so	670f34c52d1a449d

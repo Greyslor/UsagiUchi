@@ -14,6 +14,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Garden.unity
     guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 396d055c2a2844e48b38d52461d2197a
   m_configObjects:
     com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 80faaeb1dfd832e489f323327eaa26db, type: 2}
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 4d986dabfe0c1c8459d4bf6f6d5b0422, type: 2}
