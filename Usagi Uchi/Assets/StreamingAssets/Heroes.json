@@ -1,0 +1,16 @@
+{
+    "Items": [
+        {
+            "name": "Bulma",
+            "life": 2,
+            "mana": 2,
+            "speed": 18
+        },
+        {
+            "name": "",
+            "life": 0,
+            "mana": 0,
+            "speed": 0
+        }
+    ]
+}
