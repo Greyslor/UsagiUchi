@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 447bc855419a05b498ce2ada8a164fce
+guid: f2f522803388ed24cb9a9f553a5e08eb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5475755740448714340
-    second: crearUsuario_0
+      213: -3401481241197519482
+    second: Gris 2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -113,22 +113,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: crearUsuario_0
+      name: Gris 2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1120
-        height: 1120
+        x: 43
+        y: 52
+        width: 835
+        height: 920
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 46e604a85dacdfb40800000000000000
-      internalID: 5475755740448714340
+      spriteID: 68d544c35d28bc0d0800000000000000
+      internalID: -3401481241197519482
       vertices: []
       indices: 
       edges: []
@@ -136,15 +136,15 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
-    internalID: 0
+    spriteID: 2398cf9a1651809408157b361c41fd92
+    internalID: -505326494
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      crearUsuario_0: 5475755740448714340
+      Gris 2_0: -3401481241197519482
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
