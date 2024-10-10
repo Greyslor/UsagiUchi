@@ -1706,7 +1706,7 @@ MonoBehaviour:
   resumeButton: {fileID: 1795213163}
   newButton: {fileID: 827085652}
   optionsButton: {fileID: 108104426}
-  confirmationPanel: {fileID: 0}
+  confirmationPanel: {fileID: 205366036}
 --- !u!4 &1773063235
 Transform:
   m_ObjectHideFlags: 0

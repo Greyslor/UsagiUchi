@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement; // Asegúrate de importar este módulo
 
 public class RabbitInteraction : MonoBehaviour
 {
@@ -51,21 +52,26 @@ public class RabbitInteraction : MonoBehaviour
     {
         // Muestra el panel de interacción al tocar el conejo
         interactionPanel.SetActive(true);
+        // Asigna el conejo actual (esto depende de cómo tengas tu clase de conejo)
+        DatosMinijuego.conejoSeleccionado = this.gameObject; // Asegúrate de que DatosMinijuego.conejoSeleccionado sea del tipo correcto
     }
 
     void ShowGifts()
     {
         Debug.Log("Mostrando regalos");
+        // Aquí puedes añadir la lógica para mostrar los regalos.
     }
 
     void ShowMemories()
     {
         Debug.Log("Mostrando recuerdos");
+        // Aquí puedes añadir la lógica para mostrar los recuerdos.
     }
 
     void StartMinigame()
     {
         Debug.Log("Iniciando minijuego");
+        SceneManager.LoadScene("Minijuego"); // Cambia a la escena "Minijuego"
     }
 
     void CloseInteractionPanel()
