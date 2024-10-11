@@ -2318,7 +2318,7 @@ GameObject:
   - component: {fileID: 1051863711}
   - component: {fileID: 1051863710}
   m_Layer: 5
-  m_Name: eggText
+  m_Name: Eggs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3660,6 +3660,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   uiCanvas: {fileID: 998059791}
   eggText: {fileID: 1051863710}
+  messageText: {fileID: 0}
   totalEasterEggs: 0
 --- !u!4 &1930572117
 Transform:

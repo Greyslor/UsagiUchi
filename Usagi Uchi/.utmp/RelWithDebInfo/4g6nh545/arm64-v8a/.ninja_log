@@ -1,0 +1,11 @@
+# ninja log v5
+184	449	7503123660941303	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	56e1214cade53750
+451	1137	7503123665532580	C:/Users/loren/OneDrive/Escritorio/UsagiUchi/Usagi Uchi/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4g6nh545/obj/arm64-v8a/libswappywrapper.so	3e41a680ee475ae6
+23	1164	7503123668059579	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c01d30eede638c51
+16	1177	7503123668185239	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6d78f5e3fdec6d27
+43	1206	7503123668505526	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	4fc68a5cba09be24
+174	1281	7503123669251666	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3f4e96bcd374d47e
+1	1299	7503123669434788	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	5bfe854aa4fbb85e
+32	1390	7503123670341772	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	7e3767841b7dd27b
+9	1456	7503123670992384	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	cce0249cd65d2a1f
+1456	1827	7503123673524872	C:/Users/loren/OneDrive/Escritorio/UsagiUchi/Usagi Uchi/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4g6nh545/obj/arm64-v8a/libgame.so	83c4d6e8271b6976

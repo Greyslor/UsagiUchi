@@ -1,6 +1,7 @@
+using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-
 public class MenuPrincipalManager : MonoBehaviour
 {
     public ConfirmationPanelManager confirmationPanelManager; // Referencia al panel de confirmación

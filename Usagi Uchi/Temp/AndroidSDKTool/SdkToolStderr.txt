@@ -1,0 +1,2 @@
+Warning: Errors during XML parse:
+Warning: Additionally, the fallback loader failed to parse the XML.
